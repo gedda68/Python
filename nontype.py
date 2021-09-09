@@ -1,2 +1,2 @@
-x = "This is a test"
-print (type(x))
+x = 1
+print(type(x))
