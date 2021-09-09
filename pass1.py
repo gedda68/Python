@@ -4,6 +4,6 @@ s = 2
 if t == 1:
 	pass
 else:
-	print "Somthing is not right"
+	print("Somthing is not right")
 
-print "Completed as t passed", t
+print("Completed as t passed", t)
