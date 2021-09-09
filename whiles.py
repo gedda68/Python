@@ -1,4 +1,4 @@
 index = 0
 while index <= 10:
-	print index
+	print(index)
 	index = index + 1
