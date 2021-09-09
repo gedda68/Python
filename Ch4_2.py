@@ -8,4 +8,4 @@ print(s.center(10))
 print(s.zfill(5).center(10))
 
 
-print("This is a tab \t followed by a return \n and then a funky character \xE4")
+print("This is a tab \t followed by a return \n and then a funky character \xE4: " + s)
