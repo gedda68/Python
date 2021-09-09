@@ -1,17 +1,17 @@
 BAD=1
 
 def foo():
-	print "Foo Called"
+	print("Foo Called")
 	global BAD
 	BAD = 2
 
 def foo1():
-	print "Foo 1 called"
+	print("Foo 1 called")
 	BAD = 12
 
 foo() #1
-print BAD
+print(BAD)
 
 foo1() #2
 
-print BAD
+print(BAD)
